@@ -2,7 +2,7 @@
 
 <p>A safety and incident reporting application for Android devices. It allows users to report accidents and safety concerns, view all reports, and make emergency calls. The app is built using modern Android development principles and incorporates features like Room database for data persistence and secure user authentication.</p>
 
-<h2>Features</h2>
+<h2>App Features</h2>
 <ul>
   <li><strong>Accident Reporting:</strong> Users can report accidents by providing location details, accident descriptions, and actions taken.</li>
   <li><strong>Safety Concern Reporting:</strong> Users can also report safety concerns or ideas for improvement.</li>
@@ -13,7 +13,7 @@
   <li><strong>Responsive UI:</strong> The app provides a smooth and intuitive user interface for seamless navigation.</li>
 </ul>
 
-<h2>Android Features</h2>
+<h2>Android Technologies</h2>
 <ul>
   <li><strong>Room Database:</strong> The app utilizes Room, which is an SQLite database library, to persistently store accident reports and safety concerns locally on the device.</li>
   <li><strong>SharedPreferences:</strong> To store user login sessions and authentication information.</li>
