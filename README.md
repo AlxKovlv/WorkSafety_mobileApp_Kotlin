@@ -22,4 +22,5 @@
 </ul>
 
 <h2>Screenshots</h2>
-![Work Safety App](https://github.com/AlxKovlv/WorkSafety_mobileApp_Kotlin/assets/130834771/3a5ab5af-ea15-45a5-81a7-15ba6ea4d412)
+
+![Work Safety App](https://github.com/AlxKovlv/WorkSafety_mobileApp_Kotlin/assets/130834771/1680dfaf-087e-4be9-b8b4-f341b11f1573)
