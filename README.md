@@ -2,6 +2,10 @@
 
 <p>A safety and incident reporting application for Android devices. It allows users to report accidents and safety concerns, view all reports, and make emergency calls. The app is built using modern Android development principles and incorporates features like Room database for data persistence and secure user authentication.</p>
 
+<h2>Screenshots</h2>
+
+![Work Safety App](https://github.com/AlxKovlv/WorkSafety_mobileApp_Kotlin/assets/130834771/1680dfaf-087e-4be9-b8b4-f341b11f1573)
+
 <h2>App Features</h2>
 <ul>
   <li><strong>Accident Reporting:</strong> Users can report accidents by providing location details, accident descriptions, and actions taken.</li>
@@ -20,7 +24,3 @@
   <li><strong>Intents:</strong> Android intents are used for navigation between different activities within the app.</li>
   <li><strong>CardView:</strong> CardView is used to create visually appealing cards for reporting options on the home screen.</li>
 </ul>
-
-<h2>Screenshots</h2>
-
-![Work Safety App](https://github.com/AlxKovlv/WorkSafety_mobileApp_Kotlin/assets/130834771/1680dfaf-087e-4be9-b8b4-f341b11f1573)
